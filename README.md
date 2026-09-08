@@ -2,19 +2,20 @@
 
 # SANGAMESH K
 ### **Principal Full-Stack, Mobile & Cloud Systems Architect**
-*Engineering resilient cross-platform mobile architectures, cloud-native edge infrastructure, and AI-accelerated product ecosystems.*
+*Engineering resilient cross-platform mobile architectures (Flutter & React Native for Android/iOS), cloud-native edge infrastructure, and AI-accelerated product ecosystems.*
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&width=720&lines=Flutter+%26+React+Native+Mobile+Architect;AWS+%26+Cloudflare+Edge+Infrastructure+Engineer;Multi-Factor+Identity+%26+OAuth2+%2F+PKCE+Security;AI-Augmented+Systems+%7C+Cursor+%2B+Claude+Code+%2B+MCP;Real-Time+Geospatial+Routing+%26+Fintech+Pipelines" alt="Technical Competency Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1100&color=00F2FE&center=true&vCenter=true&width=740&lines=Flutter+%26+React+Native+Mobile+Architect+(Android+%26+iOS);AWS+%26+Cloudflare+Global+Edge+Infrastructure+Engineer;Multi-Factor+Mobile+Identity+%26+OAuth2+%2F+PKCE+Security;AI-Augmented+Systems+%7C+Cursor+%2B+Claude+Code+%2B+MCP;Real-Time+Geospatial+Routing+%26+Fintech+Pipelines" alt="Technical Competency Header" />
 </a>
 
 <br/><br/>
 
 [![Status](https://img.shields.io/badge/Status-Available_for_High--Impact_Roles-00F2FE?style=for-the-badge&logo=statuspage&logoColor=black)](mailto:sangamesh.sylonow@gmail.com)
+[![Mobile Stack](https://img.shields.io/badge/Mobile-Flutter_%7C_React_Native-61DAFB?style=for-the-badge&logo=react)](https://github.com/sangamesh5588?tab=repositories)
+[![Cloud Stack](https://img.shields.io/badge/Cloud-AWS_%7C_Cloudflare-F58220?style=for-the-badge&logo=cloudflare)](https://github.com/sangamesh5588?tab=repositories)
 [![Public Repos](https://img.shields.io/badge/Production_Repositories-33_Active-7928CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sangamesh5588?tab=repositories)
-[![Architecture](https://img.shields.io/badge/Architecture-Clean_%26_Hexagonal-4FACFE?style=for-the-badge)](https://github.com/sangamesh5588)
 
 </div>
 
@@ -22,8 +23,9 @@
 
 ## 🏛️ Executive Summary
 
-I am a **product-minded systems architect and full-stack engineer** with a proven track record of designing, building, and deploying mission-critical applications across **Mobile (Flutter & React Native)**, **Web (React 19, Next.js)**, and **Cloud Edge Infrastructure (AWS, Cloudflare, Supabase)**.
+I am a **product-minded systems architect and full-stack engineer** with a proven track record of designing, building, and deploying mission-critical applications across **Mobile (Flutter & React Native for Android and iOS)**, **Web (React 19, Next.js)**, and **Cloud Edge Infrastructure (AWS, Cloudflare, Supabase)**.
 
+- **Dual-Engine Mobile Expertise:** Deep architectural proficiency across both **Flutter (Dart)** and **React Native (TypeScript, Expo & Bare Workflow)**. Expert in native bridging (JSI, TurboModules, Native C++/Java/Swift), 60fps gesture-driven animations (Reanimated), and device OS APIs across Android and iOS.
 - **System Reliability & Performance:** Specialized in offline-first mobile databases, sub-second geospatial querying, real-time WebSocket state synchronization, and hardware-accelerated media rendering.
 - **Enterprise-Grade Security:** Deep practical experience implementing multi-factor authentication (Biometrics, Apple/Google SSO, SMS OTP via MSG91, OAuth 2.0 with PKCE), database Row-Level Security (RLS), and cryptographic keystore management.
 - **AI-Augmented Engineering:** Leverage state-of-the-art AI infrastructure (Claude Code, Cursor, Antigravity, MCP, LLM APIs) to achieve 10x shipping velocity without sacrificing architectural rigor, type safety, or test coverage.
@@ -32,18 +34,20 @@ I am a **product-minded systems architect and full-stack engineer** with a prove
 
 ## 🛠️ Technical Competency Matrix
 
-### 📱 1. Mobile Engineering & OS Interactions
+### 📱 1. Mobile Engineering (Flutter & React Native — Android & iOS)
 *Production-grade native & cross-platform architectures with deep OS hardware integration.*
-* **Frameworks & Languages:** Flutter (Dart), React Native (TypeScript), Modern Android & iOS toolchains.
-* **Architecture & State Management:** Riverpod, BLoC, Clean Architecture, Repository Pattern, Redux/Zustand.
-* **Hardware & OS APIs:**
+* **Mobile Frameworks:** **React Native** (Bare Workflow & Expo SDK), **Flutter** (Dart), Android (Java/Kotlin), iOS (Swift).
+* **React Native Ecosystem:** Reanimated 3, Gesture Handler, React Navigation (Native Stack), FlashList, MMKV (C++ ultra-fast encrypted storage), Hermes Engine optimization.
+* **Architecture & State Management:** Riverpod, BLoC, Clean Architecture, Redux Toolkit, Zustand, React Context, Repository Pattern.
+* **Hardware & Device OS APIs:**
   * **Geospatial & Navigation:** Background GPS tracking, Google Maps SDK, Geocoding, Dynamic Polyline Rendering.
-  * **Peripherals:** Camera hardware access, QR code generation/scanning (`mobile_scanner`, `qr_flutter`), Speech-to-Text voice recognition.
-  * **Storage & Caching:** Secure Storage, Encrypted SharedPreferences, SQLite/Hive, Offline-first synchronization.
+  * **Peripherals & Native Modules:** Hardware camera access, QR code generation/scanning (`mobile_scanner`, `react-native-camera`), Speech-to-Text native voice recognition.
+  * **Device Security:** Biometric Authentication (Face ID, Touch ID, Fingerprint scanner), Secure Keystore / Keychain access, Encrypted SharedPreferences.
+  * **Storage & Caching:** MMKV, Secure Storage, SQLite/Hive, Offline-first synchronization with conflict resolution.
 
 ### ☁️ 2. Cloud Infrastructure, Edge & DevOps
 *Scalable, fault-tolerant infrastructure built for zero-downtime scalability.*
-* **Amazon Web Services (AWS):** S3 (Secure object storage, presigned URLs), AWS Lambda (Serverless execution), CloudFront (Global CDN), Route53.
+* **Amazon Web Services (AWS):** S3 (Secure object storage, presigned URLs), AWS Lambda (Serverless execution), CloudFront (Global CDN), Route53, IAM least-privilege policies.
 * **Cloudflare Global Edge:** Cloudflare Workers (Edge compute), Cloudflare Pages, DNS management, SSL/TLS termination, DDoS mitigation, and edge caching.
 * **BaaS & Realtime Backends:** Supabase (PostgreSQL, Realtime WebSockets, Database Triggers, Edge Functions), Firebase (Firestore, Cloud Messaging FCM, Analytics).
 * **CI/CD & Tooling:** Docker, GitHub Actions CI/CD automation, Bun runtime, Playwright, Vitest.
@@ -74,23 +78,23 @@ I am a **product-minded systems architect and full-stack engineer** with a prove
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
 │                              SYSTEM TOPOLOGY OVERVIEW                                  │
 ├────────────────────────────────────────────────────────────────────────────────────────┤
-│  [Flutter Driver App]   [Flutter Host App]   [React 19 Web Platform]                  │
-│           │                     │                       │                              │
-│           └─────────────────────┼───────────────────────┘                              │
-│                                 ▼                                                      │
-│              [Cloudflare Global Edge: CDN / DDoS / SSL]                                │
-│                                 │                                                      │
-│          ┌──────────────────────┴──────────────────────┐                               │
-│          ▼                                             ▼                               │
-│  [Supabase PostgreSQL + RLS]                 [AWS S3 + Lambda Workers]                 │
-│  • Realtime WebSocket Channels               • Asset Storage & Presigned URLs          │
-│  • Edge Functions (MSG91 SMS Gateway)        • Background Media Processing             │
-│  • OAuth 2.0 / Apple & Google SSO            • Razorpay Payment Webhooks               │
+│  [Flutter App (Android/iOS)]  [React Native App (Android/iOS)]  [React 19 Web Portal]  │
+│             │                               │                             │            │
+│             └───────────────────────────────┼─────────────────────────────┘            │
+│                                             ▼                                          │
+│                         [Cloudflare Global Edge: CDN / DDoS / SSL]                     │
+│                                             │                                          │
+│                     ┌───────────────────────┴───────────────────────┐                  │
+│                     ▼                                               ▼                  │
+│             [Supabase PostgreSQL + RLS]                    [AWS S3 + Lambda]           │
+│             • Realtime WebSocket Channels                  • Presigned Media Streaming │
+│             • Edge Functions (MSG91 SMS Gateway)           • Serverless Background Ops │
+│             • OAuth 2.0 / Apple & Google SSO               • Razorpay Payment Webhooks │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ### 1. 🅿️ [ParkDady — Real-Time Geospatial Parking Engine](https://github.com/sangamesh5588/parkdady_user)
-> **Stack:** Flutter (Dart) • Riverpod • Supabase PostgreSQL • Google Maps SDK • Razorpay • QR Code Engine
+> **Stack:** Flutter • React Native • Riverpod • Supabase PostgreSQL • Google Maps SDK • Razorpay • QR Code Engine
 * **Architectural Scope:** Multi-sided marketplace platform serving both drivers looking for nearby spots and parking space hosts managing inventory.
 * **Core Engineering Feats:**
   * Real-time GPS distance radius filtering and dynamic map viewport clustering.
@@ -144,7 +148,7 @@ I am a **product-minded systems architect and full-stack engineer** with a prove
 
 <div align="center">
 
-I am actively open to discussing **Senior Full-Stack / Mobile Architect roles, technical leadership opportunities, and high-impact software engineering projects**.
+I am actively open to discussing **Senior Full-Stack / Mobile Architect roles (Flutter & React Native), technical leadership opportunities, and high-impact software engineering projects**.
 
 <br/>
 
